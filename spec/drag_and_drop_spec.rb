@@ -1,6 +1,6 @@
 
 
-describe 'Drag and Drop', :dragDrop do
+describe 'Drag and Drop', :dragdrop do
 
     before(:each) do
       visit 'https://training-wheels-protocol.herokuapp.com/drag_and_drop'
